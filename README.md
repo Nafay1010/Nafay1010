@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nafay
-- 👀 Web/Mobile Development wannabe
-- 🌱 I’m currently learning computer science for some reason that I dont even know.
+- 👀 I have a passion in Web/Mobile Developing for some reason.
+- 🌱 I am a graduate of FAST National University and have a degree in Bachelors of Computer Science.
 - Portfolio: https://nafay.me/
